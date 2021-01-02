@@ -1,0 +1,2 @@
+(this.webpackJsonpsagitarproject=this.webpackJsonpsagitarproject||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var r=n(1),c=(n(0),n(3)),s=n.n(c);n(9);function i(){return Object(r.jsx)("h1",{children:"witaj"})}s.a.render(Object(r.jsx)(i,{}),document.getElementById("root"))},9:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.3f3d3960.chunk.js.map
